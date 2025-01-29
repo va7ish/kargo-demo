@@ -7,11 +7,11 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-    <title>test</title>
+    <title>prod-east</title>
     </head>
     <body>
 
-    <h1>test</h1>
+    <h1>prod-east</h1>
 
     </body>
     </html>
