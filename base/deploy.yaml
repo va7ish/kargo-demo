@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx 
-        image: ghcr.io/va7ish/nginx:placeholder
+        image: ghcr.io/va7ish/nginx/nginx:placeholder
         volumeMounts:
         - name: content
           mountPath: /usr/share/nginx/html
